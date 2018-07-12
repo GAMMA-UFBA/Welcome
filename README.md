@@ -13,7 +13,7 @@ Contamos com seu feedback para sempre melhorar!
 
 ## SEMANA 1
 
-- Acesse o site do gamma e conheça nossos projetos e pessoas: gamma.ufba.br;
+- Acesse o site do gamma e conheça nossos projetos e pessoas: [gamma.ufba.br](gamma.ufba.br);
 
 - Solicite acesso ao grupo de Whatsapp do GAMMA e se apresente ao membros;
 
