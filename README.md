@@ -1,3 +1,5 @@
+![](https://i.imgur.com/zWQvVEA.png)
+
 # Welcome to GAMMA
 
 **GAMMA - Grupo de Pesquisas em Análise Multivariada e Modelagem Aplicada**
